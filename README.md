@@ -76,9 +76,6 @@ MIT License
 
 ### Links
 
-- [Detailed Usage Guide (Japanese)](https://note.com/ne_gy/n/na8c0aa8f101a)
-- [Portfolio](https://lycorisx.com/portfolio_wd)
-
 ---
 
 <a name="japanese"></a>
@@ -164,11 +161,6 @@ define('CUSTOM_FIELDS', [
 ### ライセンス
 
 MIT License
-
-### 関連リンク
-
-- [詳細な使い方ガイド（note記事）](https://note.com/ne_gy/n/na8c0aa8f101a)
-- [ポートフォリオ](https://lycorisx.com/portfolio_wd)
 
 ### 作者
 
